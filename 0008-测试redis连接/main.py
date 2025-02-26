@@ -22,4 +22,5 @@ def test_redis_connection(host, port, password=None):
 
 if __name__ == '__main__':
     # 假设你的Redis服务器在本地，端口为6379，没有密码
-    test_redis_connection('192.168.5.130', 6379)
+    # test_redis_connection('192.168.5.130', 6379)
+    test_redis_connection('127.0.0.1', 6379)
