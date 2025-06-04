@@ -1,6 +1,6 @@
 # 版权声明
 
-版权所有 (c) 2024 slience_me
+版权所有 (c) 2024-2025 slience_me
 
 ## 许可证
 
@@ -19,7 +19,7 @@
 如有任何疑问或需求，欢迎通过以下方式联系作者：
 
 - 作者：slience_me
-- 电子邮件：[slienceme520@gmail.com](mailto:slienceme520@gmail.com)
-- GitHub：[slience_me GitHub](https://github.com/slience_me)
+- 电子邮件：[slienceme.cn@gmail.com](mailto:slienceme.cn@gmail.com)
+- GitHub：[slience_me GitHub](https://github.com/slience-me)
 
 作者保留对此项目的最终解释权。感谢您的合作与尊重。
