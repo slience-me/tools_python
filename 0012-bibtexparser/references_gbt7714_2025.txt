@@ -1,0 +1,76 @@
+[1] Bagnall A, Dau HA, Lines J, et al.. The UEA multivariate time series classification archive, 2018[J]. arXiv preprint arXiv:1811.00075, 2018.
+
+[2] Patton AJ. A review of copula models for economic time series[J]. Journal of Multivariate Analysis, 2012, 110: 4–18.
+
+[3] McGovern A, Rosendahl DH, Brown RA, et al.. Identifying predictive multi-dimensional time series motifs: an application to severe weather prediction[J]. Data Mining and Knowledge Discovery, 2011, 22: 232–258.
+
+[4] Zheng J, Huang M. Traffic flow forecast through time series analysis based on deep learning[J]. IEEE Access, 2020, 8: 82562–82570.
+
+[5] Do T, Tran TM, Le XT, et al.. Detecting special lecturers using information theory-based outlier detection method[C]//Proceedings of the International Conference on Compute and Data Analysis. 2017: 240–244.
+
+[6] Ruiz AP, Flynn M, Large J, et al.. The great multivariate time series classification bake off: a review and experimental evaluation of recent algorithmic advances[J]. Data Mining and Knowledge Discovery, 2021, 35(2): 401–449.
+
+[7] Stevner A, Vidaurre D, Cabral J, et al.. Discovery of key whole-brain transitions and dynamics during human wakefulness and non-REM sleep[J]. Nature communications, 2019, 10(1): 1035.
+
+[8] Vaswani A. Attention is all you need[J]. Advances in Neural Information Processing Systems, 2017.
+
+[9] Ismail Fawaz H, Forestier G, Weber J, et al.. Deep learning for time series classification: a review[J]. Data mining and knowledge discovery, 2019, 33(4): 917–963.
+
+[10] Mohammadi Foumani N, Miller L, Tan CW, et al.. Deep learning for time series classification and extrinsic regression: A current survey[J]. ACM Computing Surveys, 2024, 56(9): 1–45.
+
+[11] Zerveas G, Jayaraman S, Patel D, et al.. A transformer-based framework for multivariate time series representation learning[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery \& data mining. 2021: 2114–2124.
+
+[12] Zuo R, Li G, Choi B, et al.. SVP-T: a shape-level variable-position transformer for multivariate time series classification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023: 11497–11505.
+
+[13] Foumani NM, Tan CW, Webb GI, et al.. Improving position encoding of transformers for multivariate time series classification[J]. Data Mining and Knowledge Discovery, 2024, 38(1): 22–48.
+
+[14] Choromanski K, Likhosherstov V, Dohan D, et al.. Rethinking attention with performers[J]. arXiv preprint arXiv:2009.14794, 2020.
+
+[15] Li R, Su J, Duan C, et al.. Linear attention mechanism: An efficient attention for semantic segmentation[J]. arXiv preprint arXiv:2007.14902, 2020.
+
+[16] Katharopoulos A, Vyas A, Pappas N, et al.. Transformers are rnns: Fast autoregressive transformers with linear attention[C]//International conference on machine learning. 2020: 5156–5165.
+
+[17] Shen Z, Zhang M, Zhao H, et al.. Efficient attention: Attention with linear complexities[C]//Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2021: 3531–3539.
+
+[18] Bolya D, Fu C, Dai X, et al.. Hydra attention: Efficient attention with many heads[C]//European Conference on Computer Vision. 2022: 35–49.
+
+[19] Han D, Pan X, Han Y, et al.. Flatten transformer: Vision transformer using focused linear attention[C]//Proceedings of the IEEE/CVF international conference on computer vision. 2023: 5961–5971.
+
+[20] Kim S, Park D, Lee H. Efficient processing of subsequence matching with the Euclidean metric in time-series databases[J]. Information processing letters, 2004, 90(5): 253–260.
+
+[21] Berndt DJ, Clifford J. Using dynamic time warping to find patterns in time series[C]//Proceedings of the 3rd international conference on knowledge discovery and data mining. 1994: 359–370.
+
+[22] Middlehurst M, Large J, Bagnall A. The canonical interval forest (CIF) classifier for time series classification[C]//2020 IEEE international conference on big data (big data). 2020: 188–195.
+
+[23] Le XT, Tran TM, Nguyen HT. An improvement of SAX representation for time series by using complexity invariance[J]. Intelligent Data Analysis, 2020, 24(3): 625–641.
+
+[24] Sch{\"a}fer P. The BOSS is concerned with time series classification in the presence of noise[J]. Data Mining and Knowledge Discovery, 2015, 29: 1505–1530.
+
+[25] Lines J, Taylor S, Bagnall A. Time series classification with HIVE-COTE: The hierarchical vote collective of transformation-based ensembles[J]. ACM Transactions on Knowledge Discovery from Data (TKDD), 2018, 12(5): 1–35.
+
+[26] Karim F, Majumdar S, Darabi H, et al.. Multivariate LSTM-FCNs for time series classification[J]. Neural networks, 2019, 116: 237–245.
+
+[27] Hao Y, Cao H. A new attention mechanism to classify multivariate time series[C]//Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence. 2020.
+
+[28] Wu Z, Pan S, Long G, et al.. Connecting the dots: Multivariate time series forecasting with graph neural networks[C]//Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery \& data mining. 2020: 753–763.
+
+[29] Zhang X, Gao Y, Lin J, et al.. Tapnet: Multivariate time series classification with attentional prototypical network[C]//Proceedings of the AAAI conference on artificial intelligence. 2020: 6845–6852.
+
+[30] Liu M, Ren S, Ma S, et al.. Gated transformer networks for multivariate time series classification[J]. arXiv preprint arXiv:2103.14438, 2021.
+
+[31] Deihim A, Alonso E, Apostolopoulou D. STTRE: A Spatio-Temporal Transformer with Relative Embeddings for multivariate time series forecasting[J]. Neural Networks, 2023, 168: 549–559.
+
+[32] Foumani SNM, Tan CW, Salehi M. Disjoint-cnn for multivariate time series classification[C]//2021 International Conference on Data Mining Workshops (ICDMW). 2021: 760–769.
+
+[33] Dem{\v{s}}ar J. Statistical comparisons of classifiers over multiple data sets[J]. The Journal of Machine learning research, 2006, 7: 1–30.
+
+[34] Dempster A, Schmidt DF, Webb GI. Minirocket: A very fast (almost) deterministic transform for time series classification[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery \& data mining. 2021: 248–257.
+
+[35] Tang W, Long G, Liu L, et al.. Omni-scale cnns: a simple and effective kernel size configuration for time series classification[J]. arXiv preprint arXiv:2002.10061, 2020.
+
+[36] Sch{\"a}fer P, Leser U. Multivariate time series classification with WEASEL+ MUSE[J]. arXiv preprint arXiv:1711.11343, 2017.
+
+[37] Ismail Fawaz H, Lucas B, Forestier G, et al.. Inceptiontime: Finding alexnet for time series classification[J]. Data Mining and Knowledge Discovery, 2020, 34(6): 1936–1962.
+
+[38] You H, Xiong Y, Dai X, et al.. Castling-vit: Compressing self-attention via switching towards linear-angular attention at vision transformer inference[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 14431–14442.
+
